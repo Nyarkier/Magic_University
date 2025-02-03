@@ -5,6 +5,7 @@
 
 ## Core Features
 
+
 *   Course Management (add, edit, delete courses)
 *   Student Management (enrollment, records, grades)
 *   Faculty Management (assignments, course loads)

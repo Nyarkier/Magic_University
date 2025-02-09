@@ -1,7 +1,7 @@
 # Magic_University
 
 ### This is a university course management system.
-### [CLICK HERE TO GO TO THE PROTOTYPE]([https://www.google.com](https://www.facebook.com/ezekiel.arceo.98))
+### [CLICK HERE TO GO TO THE PROTOTYPE](https://www.facebook.com/ezekiel.arceo.98)
 
 ## Core Features
 
